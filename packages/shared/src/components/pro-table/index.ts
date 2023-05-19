@@ -1,0 +1,1 @@
+export { default as ProTable } from './index.vue'
